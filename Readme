@@ -1,0 +1,9 @@
+We will be building a model on the iris flower dataset, which is a very famous classification set. It comprises the sepal length, sepal width, petal length, petal width, and type of flowers. There are three species or classes: 
+                       
+                        1. Setosa 
+                        2. Versicolor 
+                        3. Virginia 
+
+We will build a model to classify the type of flower. We will KNN(k-Nearest Neighbours) method for classification purpose. We have achieved the accuracy of 97.77%. After this we have given the test data and the system has predicted it correctly.
+
+At last we will also search for optimal value of 'k'. The optimal value for k is 5 which we have taken already and achieved 97.77% accuracy. At this value both the training accuracy and test accuracy are high.
